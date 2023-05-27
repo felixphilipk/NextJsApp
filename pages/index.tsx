@@ -14,10 +14,10 @@ export default function Home({ content, courses }) {
       progressService={progressService}
     >
       <Head>
-        <title>Testing Next.js Applications with Felix</title>
+        <title>Britos Counselling</title>
         <meta
           name="description"
-          content="Learn from top industry experts and level-up your testing knowledge - for free."
+          content="Book a Free demo with Brito Today"
         />
       </Head>
 
