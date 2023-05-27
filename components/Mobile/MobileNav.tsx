@@ -29,7 +29,6 @@ export default function MobileProgressMenu({
           </div>
           {/* Mobile Hamburger Menu */}
           <div className="md:hidden">
-            
           </div>
         </div>
       </div>
