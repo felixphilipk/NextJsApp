@@ -22,7 +22,6 @@ export default function SectionPage({
     >
       <Head>
         <title>{title} | Brito's Counseling</title>
-        <meta name="description" content={description} />
       </Head>
 
       <CourseHero
