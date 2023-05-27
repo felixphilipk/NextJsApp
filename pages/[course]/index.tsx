@@ -21,7 +21,7 @@ export default function SectionPage({
       progressService={progressService}
     >
       <Head>
-        <title>{title} | Testing Next.js Applications with Felix</title>
+        <title>{title} | Brito's Counseling</title>
         <meta name="description" content={description} />
       </Head>
 
