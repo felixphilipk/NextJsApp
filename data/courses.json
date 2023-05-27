@@ -1,0 +1,158 @@
+{
+  "Individual-counseling": {
+    "title": "Individual counseling",
+    "slug": "Individual-counseling",
+    "description": "Individual counseling can help individuals address a variety of issues, such as depression, anxiety, stress, grief, and relationship problems.",
+    "image": "https://res.cloudinary.com/dbefokfin/image/upload/v1684693705/space_gr08nv.png",
+    "learnFeatures": [
+      "Lorem ipsum dolor sit amet",
+      "Lorem ipsum dolor sit amet",
+      "Lorem ipsum dolor sit amet"
+    ],
+    "lessons": [
+      {
+        "title": "Fill Our Contact Form",
+        "slug": "fill-contact-form",
+        "description": "How to install the TodoMVC application and get it up and running.",
+        "challenges": [
+          {
+            "challengeType": "multiple-choice",
+            "question": "Vestibulum congue consectetur quam in mattis?",
+            "answers": ["True", "False"],
+            "correctAnswerIndex": 0
+          }
+        ]
+      },
+      {
+        "title": "Our Team Will Get In Touch With You",
+        "slug": "get-in-touch",
+        "description": "How to install Cypress and write your first end to end test.",
+        "challenges": [
+          {
+            "challengeType": "multiple-choice",
+            "question": "Vestibulum congue consectetur quam in mattis?",
+            "answers": ["True", "False"],
+            "correctAnswerIndex": 0
+          }
+        ]
+      },
+      {
+        "title": "Schedule a Session With Our Counsellor",
+        "slug": "schedule-a-session",
+        "description": "How to utilize the beforeEach hook to setup data before each test.",
+        "challenges": [
+          {
+            "challengeType": "multiple-choice",
+            "question": "Vestibulum congue consectetur quam in mattis?",
+            "answers": ["True", "False"],
+            "correctAnswerIndex": 0
+          }
+        ]
+      }
+    ]
+  },
+  "Family-counseling": {
+    "title": "Family counseling",
+    "slug": "Family-counseling",
+    "description": "Family counseling can help families address issues such as communication, conflict resolution, and parenting.",
+    "image": "https://res.cloudinary.com/dbefokfin/image/upload/v1684694521/home_enhq3d.png",
+    "learnFeatures": [
+      "Lorem ipsum dolor sit amet",
+      "Lorem ipsum dolor sit amet",
+      "Lorem ipsum dolor sit amet"
+    ],
+    "lessons": [
+      {
+        "title": "Fill Our Contact Form",
+        "slug": "fill-contact-form",
+        "description": "Understand the testing mindset that is necessary before you begin writing tests.",
+        "challenges": [
+          {
+            "challengeType": "multiple-choice",
+            "question": "Vestibulum congue consectetur quam in mattis?",
+            "answers": ["True", "False"],
+            "correctAnswerIndex": 0
+          }
+        ]
+      },
+      {
+        "title": "Our Team Will Get In Touch With You",
+        "slug": "get-in-touch",
+        "description": "How to test user journeys, new features and bugs within your application.",
+        "challenges": [
+          {
+            "challengeType": "multiple-choice",
+            "question": "Vestibulum congue consectetur quam in mattis?",
+            "answers": ["True", "False"],
+            "correctAnswerIndex": 0
+          }
+        ]
+      },
+      {
+        "title": "Schedule a Session With Our Counsellor",
+        "slug": "schedule-session",
+        "description": "The differences between automated testing and manual testing.",
+        "challenges": [
+          {
+            "challengeType": "multiple-choice",
+            "question": "Vestibulum congue consectetur quam in mattis?",
+            "answers": ["True", "False"],
+            "correctAnswerIndex": 0
+          }
+        ]
+      }
+    ]
+  },
+  "Life-coaching": {
+    "title": "Life coaching",
+    "slug": "Life-coaching",
+    "description": "Life coaching can help individuals set goals, develop a plan, and overcome obstacles.",
+    "image": "https://res.cloudinary.com/dbefokfin/image/upload/v1684694006/hope_njkksy.png",
+    "learnFeatures": [
+      "Lorem ipsum dolor sit amet",
+      "Lorem ipsum dolor sit amet",
+      "Lorem ipsum dolor sit amet"
+    ],
+    "lessons": [
+      {
+        "title": "Fill Our Contact Form",
+        "slug": "fill-contact-form",
+        "description": "How to write tests using the Arrange, Act and Assert pattern.",
+        "challenges": [
+          {
+            "challengeType": "multiple-choice",
+            "question": "Vestibulum congue consectetur quam in mattis?",
+            "answers": ["True", "False"],
+            "correctAnswerIndex": 0
+          }
+        ]
+      },
+      {
+        "title": "Our Team Will Get In Touch With You",
+        "slug": "get-in-touch",
+        "description": "Cypress's architecture, unlike most other testing tools, runs inside of the browser. This means that your tests are being executed in the same environment as your application.",
+        "challenges": [
+          {
+            "challengeType": "multiple-choice",
+            "question": "Vestibulum congue consectetur quam in mattis?",
+            "answers": ["True", "False"],
+            "correctAnswerIndex": 0
+          }
+        ]
+      },
+      {
+        "title": "Schedule a Session With Our Counsellor",
+        "slug": "schedule-session",
+        "description": "It's important to understand the mechanism Cypress uses to chain commands together. It manages a Promise chain on your behalf...",
+        "challenges": [
+          {
+            "challengeType": "multiple-choice",
+            "question": "Vestibulum congue consectetur quam in mattis?",
+            "answers": ["True", "False"],
+            "correctAnswerIndex": 0
+          }
+        ]
+      }
+    ]
+  }
+}
