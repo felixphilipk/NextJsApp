@@ -1,4 +1,4 @@
 module.exports = {
-  siteUrl: 'https://cypress-realworld-testing-course-app.vercel.app/',
+  siteUrl: 'https://brito-s-git-main-felixphilipk.vercel.app',
   generateRobotsTxt: true,
 }
