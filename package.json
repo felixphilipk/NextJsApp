@@ -6,10 +6,9 @@
     "build:debug": "next build --debug",
     "check:links": "ts-node scripts/brokenLinks.ts",
     "create-search-index": "node ./scripts/search/create-search-index.js",
-    "cypress:open": "cypress open",
-    "cypress:open:mobile": "cypress open --config viewportWidth=375,viewportHeight=667",
-    "cypress:run": "cypress run",
-    "cypress:run:mobile": "cypress run --config viewportWidth=375,viewportHeight=667",
+
+
+   
     "dev": "next dev",
     "dev:watch": "next-remote-watch ./content",
     "lint": "next lint",
@@ -52,7 +51,6 @@
     "@types/react": "^17.0.39",
     "autoprefixer": "^10.4.2",
     "chai": "^4.3.6",
-    "cypress": "^10.11.0",
     "eslint": "^8.10.0",
     "eslint-config-next": "^12.1.0",
     "eslint-config-prettier": "^8.5.0",
